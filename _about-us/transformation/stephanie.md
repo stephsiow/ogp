@@ -11,16 +11,13 @@ jobTitle: Assistant Director
 curProducts:
   - Policy & Transformation
 pastProducts:
-  - HealthTech Sprint
+  - HealthTech Sprint, Public Service Sprint, Isomer, AskGov, RedeemSG, PaySG, DistributeSG, Parking.SG
 accomplishments:
-  - Propagated and supported other govt agencies to adapt OGP policies and
-    practices so they become more high performing
-  - Helped rest of OGP gain exposure to and integrate with the rest of
-    Government e.g. Public Service learning journeys and onboarding
-  - Introduced closer integration of policy, ops and technology via vertically
-    integrated teams e.g. ScamTech team
-quote: ""
-linkedinId: ""
+  - Strategising Government-wide adoption of OGP products like Isomer, PaySG and AskGov to drive digital transformation, cost savings, reliability, security, user-friendliness and accessibility.
+  - Organising the first ever HealthTech Sprint and Public Service Sprint to foster innovation and collaborative problem-solving within the public sector.
+  - Championing learning initiatives and exposure to boost OGP’s awareness of public service, communication skills, and alignment with government stakeholders.
+quote: "Celebrate what's right with the world."
+linkedinId: "stephaniesiow"
 
 ---
 
